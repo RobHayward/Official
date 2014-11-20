@@ -1,0 +1,28 @@
+---
+title: "MSc Meeting"
+author: "Rob Hayward"
+date: "Thursday, November 20, 2014"
+output: word_document
+---
+
+Thanks to everyone for coming along yesterday.  I think that the main points were:
+
+* We will create a *research methods* module that will support the dissertation and provide key skills for employability
+* We will add some additiona pathways that will include MSc Finance and Accouting, MSc Economics and Banking and MSc Finance and Risk Management. 
+* We will update the existing core module specification and rationalise the elective menue.
+
+
+There was a discussion about block teaching of electives. This will begin this year with a pattern of three day delivery around the weekend (Thursday, Friday, Monday or Friday, Monday, Tuesday).  This will avoid some of the problems that we have faced with the timing of Easter and the limited time between the end of the modules and the exam period. 
+
+There was a discussion of the research elective.  Most thought that this should be rooted in practice to be most effective.  It should be combined with the teaching of the quantitative elements and these elements should also be aligned with the teaching of finance and economics.  
+
+Ray Bachan and Pascal Stiefenhofer will produce a module specification for the new reseach methods module.  Andros Gregoriou, Jerome Healy and Jairaj Gupta will update the finance module specification.  Sushil Mohan, Ray Bachan and Rob Hayward will update the economics module.  
+
+There was a discussion of the structure of the course. At the moment there is the following format. 
+
+![alt text][id]
+To be done 
+
+* We will begin by considering the core content of the key economics and finance modules and mapping the quantitative skiklls that can be provided in the new research methods 
+
+[id]: tikz.pdf
