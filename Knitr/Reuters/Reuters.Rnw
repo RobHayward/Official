@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper, oneside]{article} % Paper size, default font size and one-sided paper
+\documentclass[12pt, a4paper, oneside]{hitec} % Paper size, default font size and one-sided paper
 %\graphicspath{{./Figures/}} % Specifies the directory where pictures are stored
 %\usepackage[dcucite]{harvard}
 \usepackage{rotating}
@@ -16,7 +16,7 @@
 %\renewcommand[\harvardurl]{URL: \url}
  \usepackage{listings}
  \usepackage{color}
- \graphicspath{{../Pictures/}}
+\graphicspath{{../../Pictures/}}
 \definecolor{mygrey}{gray}{0.95}
 \lstset{backgroundcolor=\color{mygrey}}
 \begin{document}
@@ -27,49 +27,43 @@
 %\begin{abstract}
 %erehrere
 %\end{abstract}
-The Thomson-Reuters Eikon system provides real-time news and prices for financial securities as well as historical financial and economic data and some analytical tools.  The system can be used on any machine in Mithras Annex room 101.  To access the Annex after 5 o'clock in the evening, it is necessary to use the Unicard.  
+The Thomson-Reuters Eikon system provides real-time news and prices for financial securities as well as historical financial and economic data and some analytical tools.  The system can be used on specific machines in room MG13.  These are the machines with the yellow stickers and passwords.
 
-You will need to access Thomson-Reuters from the applications folder.  You will be asked for a username and password.  We have five access points.  Four of these are currently operating from the Annex.  These are the usernames and passwords.  If someone is already using that username or password, you will be asked if you want to end their session. Please do not bump people out of their session. You should try another username and password.  If they are all being used, speak to the other people in Annex 101 and manage the access. 
+You will need to access Thomson-Reuters from the applications folder.  You will be asked for a username and password.  We have five access points.  Four of these are currently operating from the Annex.  
 
 If there are problems with the usernames and passwords, let me know 
 
 rh49@brighton.ac.uk
-
-\section*{Usernames and passwords}
-These are the usernames and passwords. 
-
-\hspace{6cm}
-
-\begin{tabular}{l l l}
-Number & Username & Password\\
-\hline
-1 & student2@ubbs.co.uk & Baifcms23\\
-2 & student3@ubbs.co.uk & Pjy604123\\
-3 & student4@ubbs.co.uk & Bacci46j? \\
-4 & student5@ubbs.co.uk & Rdy26240\\
-\end{tabular}
 
 \section*{Navigation}
 The system will open in whatever was last being viewed by the person using that username.  It is probably best to go back to the home page (called home).  This is a portal that will show the latest news and some market data and it will allow you to access all the other resources.  
 
 There are generally two methods of getting around
 
-Through asset class.  Across the left of the home screen, you will see the asset classes running from equities, through fixed income, FX and money markets and into commodities.  Therefore, if you are interested in corporate information, start with equities and drill down to what you want.  A very good way to get information about companies is to go to \emph{company view}.  This can be accessed from \emph{equities} and then  \emph{market data and tools}. 
+\subsection*{Through asset class}.  Across the left of the home screen, you will see the asset classes running from equities, through fixed income, FX and money markets and into commodities.  Therefore, if you are interested in corporate information, start with equities and drill down to what you want.  A very good way to get information about companies is to go to \emph{company view}.  This can be accessed from \emph{equities} and then  \emph{market data and tools}. 
 
 You should see a page like this.  You can search for other companies using the \emph{search} function.  This is identified by a large magnifying glass. 
 
 \begin{figure}[h!]
 \centering
-\includegraphics[scale = 0.6]{TR-Siemens}
+\includegraphics[scale = 0.45]{TR-Siemens}
 \end{figure}
 
-The other main avenue would be to search by country.  This can also be accessed from the home page.  There is a tab called \emph{country}.  This will take you to a country portal that will give access to news as well as economic and financial data.  The portal should look like this. 
+\subsection*{Through the country}
+The other main avenue would be to search by country.  This can also be accessed from the home page.  There is a tab called \emph{country}.  This will take you to a country portal that will give access to news as well as economic and financial data.  The portal should look like this. You can see that there are a large number of options that you can then access, ranging from news to equity bond and money markets.   
 
-\begin{figure}[h!]
+\begin{figure}[t]
 \centering
-\includegraphics[scale = 0.6]{TR-Canada}
+\includegraphics[scale = 0.45]{TR-Canada}
 \end{figure}
 
-There are also a number of financial models that can be used for calculating the value of securities or derivatives. These are usually accessed by the \emph{market data and tools} tab. 
+There are also a number of financial models that can be used for calculating the value of securities or derivatives. These are usually accessed by the \emph{market data and tools} tab.
+
+
+\section*{Financial data} 
+The Eikon system can be used for obtaining financial data that will be useful for your assignments.  For firm's financial data, you can find the information from \emph{corporate view} (as detailed above) and you will usually find a small excel icon that can be used for downloading.  There is also an excel add-in that can be used for downloading data.  
+
+\section*{Economic data}
+If you go to the module \emph{Economic Chart}, you will be able to call up economic data from a wide range of countries.  You can manipulate the data (to get thinks like percentage change year-on-year) and you can download the data to excel to use in assignments.  
 
 \end{document}

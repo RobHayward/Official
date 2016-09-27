@@ -1,4 +1,4 @@
-\documentclass[14pt,xcolor=pdftex,dvipsnames,table]{beamer}
+\documentclass[14pt,xcolor=pdftex,dvipsnames,table, handout]{beamer}
 
 % Specify theme
 \usetheme{Madrid}
@@ -165,12 +165,12 @@ You \textbf{MUST} submit your work before the deadline
 \item If it is within 2 weeks of the deadline, it will be marked and you will receive feedback but it will be capped at 50\%. 
 \item if it is after 2 weeks you will receive a mark of zero
 \item If you have an illness or other emergency (see GEAR) you may apply for an \textbf{extension}
-\item If you have an illness or other emergency that affects your work you may claim \textbf{mitigating circumstances}
+\item If you have an illness of other emergency that affects your work you may claim \textbf{mitigating circumstances}
 \end{itemize}
 \end{frame}
 
 \begin{frame}{Failing assignments}
-If you fail to achieve the \textbf{learning outcomes} on a piece of work
+if you fail to achieve the \textbf{learning outcomes} on a piece of work
 \begin{itemize}[<+-| alert@+>]
 \pause
 \item You will normally be allowed a \emph{referral}
@@ -235,7 +235,7 @@ Three issues
 \item On the surface it may not look very much
 \item Take the opportunity to read
 \item Take a professional pride
-\item Show that  you have \emph{master's level} ability analyse in a critical fashion
+\item Show that  you have \emph{master's level} ability to critically analyse
 \end{itemize}
 \end{frame}
 
