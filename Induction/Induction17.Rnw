@@ -1,0 +1,115 @@
+\documentclass[14pt,xcolor=pdftex,dvipsnames,table]{beamer}
+
+% Specify theme
+\usetheme{Madrid}
+% See deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html for other themes
+\usepackage{caption}
+\usepackage{tikz}
+ \usetikzlibrary{arrows,positioning}
+\usepackage{multirow}
+\usepackage[comma, sort&compress]{natbib}
+\usepackage{graphicx}
+%\graphicspath{{../Pictures/}}
+\usepackage{amsmath}
+\bibliographystyle{agsm}
+% Specify base color
+\usecolortheme[named=OliveGreen]{structure}
+% See http://goo.gl/p0Phn for other colors
+
+% Specify other colors and options as required
+\setbeamercolor{alerted text}{fg=Maroon}
+\setbeamertemplate{items}[square]
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+% Title and author information
+
+\title{Induction}
+\author{Rob Hayward}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+
+
+
+\section{Induction week task}
+\begin{frame}{Induction week task}
+\begin{itemize}[<+-| alert@+>]
+\pause
+\item Work as a group
+\item Present a summary of a finance question on Friday 29 September
+\item Write an individual report (1000 words) due on Sunday 8 October
+\item You will get \emph{formative feedback}
+\item It allows you to know how you are doing
+\item It allows me to see if you need help in particular areas
+\end{itemize}
+\end{frame}
+
+\section{Working at Masters' level}
+\begin{frame}{Moving to Masters}
+There is an article on student from the University of Reading about Masters' level work
+\begin{itemize}[<+-| alert@+>]
+\pause
+\item the workload is more intensive
+\item the relationship with the tutors is different
+\item there is an emphasis on application and critical thinking
+\item you are an expert and should act in a professional manner
+\item the aim is to become \textbf{an independent researcher}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{My own observations}
+Three issues
+\begin{itemize}[<+-| alert@+>]
+\pause
+\item Ability to adapt
+\item Amount of work
+\item Empirical nature of work
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Ability to adapt}
+\begin{itemize}[<+-| alert@+>]
+\item Don't just learn the answer
+\item Lean the tool and know how to use them
+\item Financial system and innovation
+\item Importance of critical analysis
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Amount of work}
+\begin{itemize}[<+-| alert@+>]
+\item On the surface it may not look very much
+\item Take the opportunity to read
+\item Take a professional pride
+\item Show that  you have \emph{master's level} ability analyse in a critical fashion
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Empirical side}
+\begin{itemize}[<+-| alert@+>]
+\item We live in a world of data
+\item Data must be managed and presented
+\item Data is the evidence to support the case that you make. 
+\item Weekly exercises are important
+\end{itemize}
+\end{frame}
+
+
+
+\end{document}
+
+
+
